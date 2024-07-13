@@ -118,7 +118,11 @@ I would be happy if you could follow me on fiicen
 https://fiicen.jp/field/tokyo_konoMi/
 
 # 改造してるk2の独り言
+2024/713
 ぷろくしサーバってどうしてんのかなぁ　公開の鯖のIPを入れてるのかそれともrenderかなんかで作ってそれをぶち込んでるのか
 もしくはオンプレミス....?
 開発者ｯ　見たなら教えてくれｯ
 とか置いといてゲーム追加するかぁ　HTML書いて　ゲームのJSファイルを漁るかぁいれるかぁ
+あははははは
+
+
